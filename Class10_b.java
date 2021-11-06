@@ -31,7 +31,7 @@ public class Class10_b {
 		bbb.setND(3,7);
 		show(bbb);
 	}
-	public static void show(CRational obj) // 顯示分數
+	public static void show(CRational obj) 
 	{
 		System.out.println(obj.n+"/"+obj.d);
 	}
